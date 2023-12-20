@@ -1,0 +1,18 @@
+
+
+
+Send Request
+POST http://localhost:3000/login/
+Content-Type:application/json
+{
+    "username":"christopher_phillips",
+    "password":"christy@123"
+}
+
+###
+Send Request
+POST http://localhost:3000/login/ 
+Authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNocmlzdG9waGVyX3BoaWxsaXBzIiwiaWF0IjoxNzAzMDU5MjI5fQ.U323Ac5iAZo6AvYUqTVqZmvFkymFMnM03fJo5SPqaug
+
+
+###
